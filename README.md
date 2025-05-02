@@ -1,6 +1,5 @@
 # Ransomware
 ### Conteúdo educacional, seu uso é de responsabilidade do usuário
-### É possível baixar o arquivo .exe do Ransomware e o Decrypt em Realeases!
 ### Cuidado, isso é um ransomware!
 
 ### Caso baixe o código fonte instale isso:
